@@ -1,0 +1,7 @@
+Start
+INPUT 30%
+INPUT 50%
+INPUT 20%
+  sum = 30% / 50% / 20%
+  DISPLAY
+END
