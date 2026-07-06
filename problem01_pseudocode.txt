@@ -1,0 +1,6 @@
+START
+INPUT num 1 pesos
+INPUT num 2 pesos
+ [sum = num 1 pesos + num 2 pesos]
+  DISPLAY 
+END

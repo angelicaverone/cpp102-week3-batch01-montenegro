@@ -1,0 +1,6 @@
+Step 1: Asked Andrei how many allowance he recieved. Start num 1 pesos
+Step 2: 
+Step 3: Create a Logic design that ask for both amounts
+Step 4: add them
+Step 5: display the total snack money
+

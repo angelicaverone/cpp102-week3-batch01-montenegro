@@ -1,0 +1,4 @@
+Step 1: 
+Step 2:Create a Logic design that ask for a Length and width
+Step 3: Compute the area
+Step 4: display the result

@@ -1,0 +1,7 @@
+START
+INPUT length
+INPUT width
+  [sum = length * width]
+ DISPLAY
+END
+  
